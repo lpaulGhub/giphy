@@ -6,4 +6,5 @@ This is an Activity from the [Coding Bootcamp Curriculum](https://github.com/cod
 # What is AJAX?
 AJAX = Asynchronous JavaScript And XML.
 
-To learn more about AJAX see the [W3Schools AJAX Intro](http://www.w3schools.com/xml/ajax_intro.asp)
+To learn more about AJAX visit one of these sites:
+-[W3Schools AJAX Intro](http://www.w3schools.com/xml/ajax_intro.asp)
