@@ -51,7 +51,7 @@ $(document).ready(function () {
 		var giphyChoiceText = $(this).text();
 
 		// giphy api query
-		var queryUrl = "http://api.giphy.com/v1/gifs/search?q=" + giphyChoiceText + "&api_key=dc6zaTOxFJmzC&limit=10";
+		var queryUrl = "https://api.giphy.com/v1/gifs/search?q=" + giphyChoiceText + "&api_key=dc6zaTOxFJmzC&limit=10";
 
 		// testing
 		// console.log(queryUrl);
