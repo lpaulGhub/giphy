@@ -24,6 +24,6 @@ To learn more about jQuery visit one of these resources:
 * [FreeCodeCamp](#freecodecamp)
 
 # Readme
-Add a `README.md` to your repository describing the project. Here are some resources for creating your `README.md`":
+Here are some resources for adding a `README.md` to your project:
 * [About READMEs](https://help.github.com/articles/about-readmes/)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
